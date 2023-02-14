@@ -1,0 +1,88 @@
+*{
+    margin: 0%;
+}
+
+.hold ul{
+    width: 100%;
+    background-color: dimgrey;
+    list-style-type: none;
+    position: fixed;
+    
+}
+
+li{
+    color: white;
+    float: left;
+    padding: 11px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 2px 16px;
+    text-decoration: none;
+}
+
+.bd{
+    padding-top: 2cm;
+    background-image: url(./images/showcase.jpg);
+    background-size: cover;
+    color: white;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+
+}
+
+h1{
+    max-width: 1180px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 3rem;
+    font-weight: bolder;
+    padding-top: 0.7%;
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+h2{
+   padding-top: 4%;
+   font-size: 2.5rem;
+   text-align: center;
+}
+
+.secondly{
+   background-color:  #252529;
+   color: white;
+   text-align: center;
+}
+
+p{
+    font-size: 1.3rem;
+  padding: 2%;
+  
+}
+
+.secondly button{
+    background-color: #b90415;
+    color: white;
+    text-decoration: none;
+    width: 15%;
+    height: 60px;
+    text-decoration-line: none;
+}
+.secondly a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.secondly img{
+    width: 90%;
+    height: 50;
+}
+
+.movie{
+    
+}

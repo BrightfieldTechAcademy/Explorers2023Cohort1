@@ -1,6 +1,0 @@
-packages:
-  - name: nhacks
-    functions:
-      - name: getParticipants
-environment:
-  DB_URL: ${DB_URL}

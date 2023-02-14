@@ -1,0 +1,182 @@
+
+.container {
+    background-image: url(images/showcase.jpeg);
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: rgb(26, 19, 19);
+    width: 100%;
+   
+}
+
+ul {
+    list-style: none;
+   
+}
+
+li {
+    float: left;
+    position: sticky;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.mytunes {
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    padding-top: 70px;
+}
+
+.mytunes1 {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    padding-top: 10px;
+}
+
+.paragraph {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    padding: 15px;
+}
+
+.container1 {
+    background-color: rgb(43, 36, 36);
+    text-align: center;
+    color: white;
+}
+
+.tuto {
+    border: 15px 13px;
+    border-color: red;
+    background-color: red;
+    padding: 1.5%;
+    font-size: 16px;
+}
+
+.tuto :hover {
+    color: black;
+    background-color: aquamarine;
+}
+
+.music {
+    padding-top: 50px;
+}
+
+.ads {
+    padding: 3%;
+}
+
+.text1 {
+    font-size: 16px;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.Orange {
+    font-size: 16px;
+    padding-top: 30px;
+}
+
+.container2 {
+    text-align: center;
+    padding-top: 3%;
+}
+
+.movies {
+    font-weight: bold;
+}
+
+.text2 {
+    font-size: 16px;
+    padding: 2%;
+}
+
+.read {
+    border: 14px 16px;
+    padding: 1.5%;
+    font-size: 16px;
+    background-color: rgb(40, 40, 63);
+    color: white;
+}
+
+.read :hover {
+    color: blue;
+}
+
+.container3 {
+    background-image: url(images/open_universe.png);
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+    padding-top: 10%;
+    color: white;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+.world {
+    font-weight: bold;
+}
+
+.text3 {
+    font-size: 20px;
+    padding: 2%;
+}
+
+.container4 {
+    width: 100%;
+    padding-top: 3%;
+}
+
+.card {
+    width: 50%;
+    height: 3%;
+    padding-left: 50px;
+}
+
+.cardimg {
+    width: 100%;
+    float: left;
+}
+
+.div2 {
+    width: 50%;
+    float: right;
+    padding-right: 50px;
+    font-size: 16px;
+}
+
+.listcontainer {
+    background-color: black; 
+    width: 100%;
+    color: white;
+    display: flex;
+}
+
+.list {
+    width: 19.5%;
+    margin: 3%;
+    list-style: none;
+}
+
+.last {
+    background-color: gray;
+     color: white;
+     text-align: center;
+}

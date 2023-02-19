@@ -1,0 +1,107 @@
+*{
+    margin: 0%;
+}
+.inner{
+    background-image: url(./images/image1.jpg);
+    background-position: 0%;
+    background-size: cover;
+    padding: 23%;
+    text-align: center;
+    position: relative;
+    background-attachment: fixed;
+}
+h1{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 13px;
+    width: 70%;
+    margin-left: 18%;
+    position: relative;
+    
+
+}
+.mine {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 3%;
+    position: relative;
+    
+}
+.mine h2{
+    font-size: 35px;
+    padding-bottom: 3%;
+}
+.mono{
+    background-image: url(./images/image2.jpg);
+    text-align: center;
+    position: relative;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    color: white;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+.mono h3{
+    padding: 7%;
+    padding-top: 15%;
+    font-size: 30px;
+}
+.top{
+    background-color: black;
+    font-size: larger;
+    color: white;
+    text-align: center;
+    padding: 2%;
+}
+.top h4{
+    padding-bottom: 3%;
+    font-size: 25px;
+}
+.three{
+    text-align: center;
+    background-image: url(./images/image3.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    color: white;
+    background-attachment: fixed;
+}
+.three h2{
+    padding-top: 30%;
+}
+.mom{
+    background-color: black;
+    color: white;
+    padding: 4%;
+    text-align: center;
+    padding: 5%;
+    font-size: 20px;
+}
+.mom h2{
+    padding: 4%;
+
+}
+.mom p{
+    padding-top: 3%;
+}
+.solo{
+    background-image: url(./images/image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0%;
+    padding: 5px;
+    padding-top: 28%;
+    padding-bottom: 30%;
+    
+
+}
+.solo h1{
+    padding-top: 0%;
+    background-color: black;
+    color: white;
+    width: 30%;
+   margin: auto;
+    
+}

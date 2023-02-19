@@ -1,0 +1,183 @@
+
+.container{
+    background-image: url(./images/backgImage.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+    background-color: black;
+
+    
+}
+.container h1{
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+    text-align: center;
+    
+    
+   
+}
+.container p{
+    font-size: larger;
+    color: white;
+    text-align: center;
+    padding-top: 15px
+
+}
+.button{
+    font-size: 15px;
+    background-color: darkslategray;
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    
+
+}
+button:hover{
+    background-color: white;
+    color: black;
+}
+/*---second div----*/
+.man{
+    padding-top: 0px;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+   
+}
+ .so{
+    columns: 2;
+    width: 100%;
+   
+    
+    
+ }
+.para{
+    padding: auto;
+    padding-top: 0px;
+}
+
+.dan{
+    padding-top: 2px;
+
+}
+
+
+
+.raper{
+    text-align: center;
+    padding-top: 20px;
+    column-count: 3;
+    width: 100%;
+    height: 450px;
+    background-color: black;    
+    
+}
+
+.inner{
+    width: 70%;
+    height: 400px;
+    background-color: white;
+    padding-top: px;
+    margin: 1%;
+    padding-left: 15%;
+    
+    
+    
+
+}
+#in1{
+    justify-self: flex-end;
+    padding-left: 2%;
+    text-align: center;
+    margin-left:  30%;
+}
+#in1::after{
+    clear: both;
+    content: "";
+    display: flexbox;
+    display: table;
+}
+
+
+#in2{
+    justify-self: flex-end;
+    padding-left: 2%;
+    text-align: center;
+    margin-left:  10%;
+    
+    
+}
+
+#in3{
+    justify-self: flex-end;
+    padding-left: 2%;
+    text-align: center;
+    margin-left:  -10%;
+    
+    
+}
+.contain{
+    background-color: wheat;
+    text-align: center;
+    padding-top: 0%;
+    position:absolute;
+    width: 98.5%;
+
+}
+
+.space{
+    columns: 2;
+    height: 20cm;
+    text-align: center;
+    height: 100%;
+    color: white;
+    column-gap: 0mm;
+    
+}
+
+.class1{
+    background-color: dodgerblue;
+    height: 10cm;
+    padding-top: 40%;
+    flex-direction: column;
+
+}
+
+
+
+    
+
+#menu{
+    padding-top: 0%;
+
+}
+#young{
+    padding-top: 20%;
+}
+
+.class2{
+    
+    height: 9cm;
+    text-align: center;
+    background-color: black;
+    padding-top: 30%;
+    flex-direction: column;
+}
+#coma{
+    padding-bottom: 3%;
+}
+.mon{
+    background-color: black;
+    position: absolute;
+    height: 10%;
+    width: 79%;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10% ;
+    padding-right: 10%;
+}

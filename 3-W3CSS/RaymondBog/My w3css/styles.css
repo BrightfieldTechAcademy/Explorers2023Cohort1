@@ -1,0 +1,27 @@
+.backgroundImage {
+    background-image: url("./images/image3.jpg");
+    background-size: cover;
+    background-position: fixed;
+    background-attachment: fixed;
+    height: 95vh;
+}
+
+.w3-container h1 {
+    text-align: center;
+    margin-top: 60px;
+    color: white;
+    padding-top: 50px;
+    font-size: 90px;
+}
+
+.w3-container1 {
+    background: radial-gradient(circle, rgba(10, 37, 139, 1) 20%, rgba(98, 121, 9, 1) 41%);
+    height: 100%;
+    color: white;
+}
+
+.w3-container2 {
+    background-color: aqua;
+}
+
+.w3-container3 {}

@@ -1,0 +1,36 @@
+#override {
+    color: rgb(170, 191, 197) !important;
+    font-size: 30px !important;
+    text-align: center;
+}
+
+#override2,
+#override3 {
+    text-align: center;
+    color: khaki;
+    font-family: Sofia, serif;
+}
+
+.s4 {
+    height: 650px !important;
+}
+
+span a {
+    text-align: center;
+    color: rgb(158, 157, 158) !important;
+    font-family: Sofia, serif;
+}
+
+.w3-dropdown p {
+    text-align: center !important;
+}
+
+p {
+    text-align: center;
+    padding-top: 10%;
+    font-family: Sofia, serif;
+}
+
+.section {
+    font-family: "Lobster", serif !important;
+}

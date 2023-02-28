@@ -1,0 +1,13 @@
+.wrapper {
+    width: 100%;
+    margin: auto;
+    margin-top: 40px;
+    background-color: rgb(232, 85, 127);
+    background: radial-gradient(circle, rgba(232, 85, 127, 1) 1%, rgba(204, 204, 221, 1) 33%, rgba(182, 228, 21, 1) 64%, rgba(97, 132, 179, 1) 85%, rgba(57, 165, 210, 1) 90%, rgba(0, 212, 255, 1) 100%);
+    ;
+}
+
+.mylogo img {
+    margin-top: 60px;
+    width: 200px;
+}

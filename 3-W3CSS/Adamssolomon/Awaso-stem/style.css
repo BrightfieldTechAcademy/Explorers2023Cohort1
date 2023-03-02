@@ -1,0 +1,64 @@
+.branding img {
+    border-radius: 50%;
+}
+
+h1 {
+    text-shadow: 2px 2px yellow;
+}
+
+.section1 {
+    animation: mymoves 3s infinite;
+    background-color: rgb(51, 10, 148);
+    animation: mymoves 5s infinite(to right, rgb(2, 60, 99), rgb(48, 48, 23));
+}
+
+@keyframes mymoves {
+    from {
+        background-color: rgb(41, 1, 1), yellow;
+    }
+    to {
+        background-color: rgb(2, 2, 61);
+    }
+}
+
+.section1 h4 {
+    color: pink;
+}
+
+.branding1 {
+    color: pink !important;
+}
+
+.pstyle a {
+    text-decoration: none;
+}
+
+.imagestyle {
+    opacity: 0.3 !important;
+}
+
+.imagestyle:hover {
+    color: rgb(238, 13, 13) !important;
+    opacity: 0.95 !important;
+    border-radius: 5% !important;
+}
+
+.section2 h3 {
+    text-align: center;
+    height: 50px;
+    background-color: red;
+    background-image: linear-gradient(to right, rgb(56, 3, 3), rgb(59, 59, 3));
+}
+
+.container {
+    padding-top: 10px;
+}
+
+.section3 p {
+    text-align: center;
+    height: 40px;
+    background-color: red;
+    background-image: linear-gradient(to right, rgb(56, 3, 53), rgb(8, 59, 3));
+    color: pink;
+    padding-top: 8px;
+}
